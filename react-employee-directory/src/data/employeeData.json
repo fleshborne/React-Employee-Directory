@@ -3,36 +3,42 @@
     "id": 1,
     "role": "Hokage",
     "name": "Tsunade Senju",
-    "email": "Senju@emailthis.com"
+    "email": "Senju@emailthis.com",
+    "village": "Konohagakure"
   },
   {
     "id": 2,
     "role": "Jonin Leader",
     "name": "Kakashi Hatake",
-    "email": "Hatake@emailthis.com"
+    "email": "Hatake@emailthis.com",
+    "village": "Konohagakure"
   },
   {
     "id": 3,
     "role": "Genin",
     "name": "Naruto Uzumaki",
-    "email": "Naruto@believeit.com"
+    "email": "Naruto@believeit.com",
+    "village": "Konohagakure"
   },
   {
     "id": 4,
     "role": "Genin",
     "name": "Sasuke Uchiha",
-    "email": "Uchiha@allalone.com"
+    "email": "Uchiha@allalone.com",
+    "village": "Konohagakure"
   },
   {
     "id": 5,
-    "role": "Genin",
+    "role": "Chunin",
     "name": "Sakura Haruno",
-    "email": "Sakura@ilovesasuke.com"
+    "email": "Sakura@ilovesasuke.com",
+    "village": "Konohagakure"
   },
   {
     "id": 6,
     "role": "Antagonist",
-    "name": "Zabuza Momochi",
-    "email": "Zabuza@itsfutile.com"
+    "name": "Madara Uchiha",
+    "email": "Uchiha@imapuppet.com",
+    "village": "Rogue Ninja"
   }
 ]
