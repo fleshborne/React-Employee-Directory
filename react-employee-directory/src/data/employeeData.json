@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "image": "https://gyazo.com/49e25be87b1fb5e65e02717afc4b6048.png",
     "role": "Hokage",
     "name": "Tsunade Senju",
     "email": "Senju@emailthis.com",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "image": "https://gyazo.com/bf29bb93aa48155c590ae02476727ce6.png",
     "role": "Jonin Leader",
     "name": "Kakashi Hatake",
     "email": "Hatake@emailthis.com",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "image": "https://gyazo.com/a4e9dd40a763e8b4ed397a5a61e6ae6e.png",
     "role": "Genin",
     "name": "Naruto Uzumaki",
     "email": "Naruto@believeit.com",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "image": "https://gyazo.com/a88730be6dd3da2b23a34955026b1b59.png",
     "role": "Genin",
     "name": "Sasuke Uchiha",
     "email": "Uchiha@allalone.com",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "image": "https://gyazo.com/48023c17dbac7b9ef96e451be1275b2c.png",
     "role": "Chunin",
     "name": "Sakura Haruno",
     "email": "Sakura@ilovesasuke.com",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "image": "https://gyazo.com/cf6d976b9c14c1d564c2833d98b6bb2b.png",
     "role": "Antagonist",
     "name": "Madara Uchiha",
     "email": "Uchiha@imapuppet.com",
