@@ -7,7 +7,13 @@ import '../App.css';
 class Table extends React.Component {
   render() {
     return (
-      <Tables striped bordered hover variant='dark'>
+      <Tables
+        striped
+        bordered
+        hover
+        variant='dark'
+        className='table-responsive'
+      >
         <TableHeader />
 
         <TableData />
