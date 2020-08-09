@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": "Hokage",
+    "name": "Tsunade Senju",
+    "email": "Senju@emailthis.com"
+  },
+  {
+    "id": 2,
+    "role": "Jonin Leader",
+    "name": "Kakashi Hatake",
+    "email": "Hatake@emailthis.com"
+  },
+  {
+    "id": 3,
+    "role": "Genin",
+    "name": "Naruto Uzumaki",
+    "email": "Naruto@believeit.com"
+  },
+  {
+    "id": 4,
+    "role": "Genin",
+    "name": "Sasuke Uchiha",
+    "email": "Uchiha@allalone.com"
+  },
+  {
+    "id": 5,
+    "role": "Genin",
+    "name": "Sakura Haruno",
+    "email": "Sakura@ilovesasuke.com"
+  },
+  {
+    "id": 6,
+    "role": "Antagonist",
+    "name": "Zabuza Momochi",
+    "email": "Zabuza@itsfutile.com"
+  }
+]
