@@ -15,7 +15,7 @@
     "react-scripts": "3.4.1",
     "save-dev": "0.0.1-security"
   },
-  "homepage": "https://fleshborne.github.io/React-Employee-Directory/",
+  "homepage": "https://fleshborne.github.io/react-employee-directory/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
