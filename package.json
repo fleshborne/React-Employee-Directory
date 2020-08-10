@@ -1,5 +1,5 @@
 {
-  "name": "react-employee-directory",
+  "name": "React-Employee-Directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1",
     "save-dev": "0.0.1-security"
   },
-  "homepage": "https://fleshborne.github.io/react-employee-directory/",
+  "homepage": "https://fleshborne.github.io/React-Employee-Directory/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
