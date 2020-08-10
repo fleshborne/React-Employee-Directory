@@ -2,7 +2,6 @@
   "name": "react-employee-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fleshborne.github.io/React-Employee-Directory/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
@@ -16,6 +15,7 @@
     "react-scripts": "3.4.1",
     "save-dev": "0.0.1-security"
   },
+  "homepage": "https://fleshborne.github.io/React-Employee-Directory/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
