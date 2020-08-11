@@ -22,12 +22,3 @@ export default function TableHeader(props) {
     </thead>
   );
 }
-
-// {
-//     "id": 1,
-//     "image": "https://gyazo.com/49e25be87b1fb5e65e02717afc4b6048.png",
-//     "role": "Hokage",
-//     "name": "Tsunade Senju",
-//     "email": "Senju@emailthis.com",
-//     "village": "Konohagakure"
-//   },
