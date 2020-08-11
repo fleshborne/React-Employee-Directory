@@ -1,14 +1,21 @@
 import React from 'react';
 
-export default function TableHeader() {
+export default function TableHeader(props) {
   return (
     <thead className='tableHeader'>
       <tr>
         <th></th>
-        <th>Id</th>
+
+        <th scope='col'>
+          <button onClick={props.handleIdSort}>Id</button>
+        </th>
         <th>Image</th>
-        <th>Role</th>
-        <th>Name</th>
+        <th scope='col'>
+          <button onClick={props.handleRoleSort}>Role</button>
+        </th>
+        <th scope='col'>
+          <button onClick={props.handleNameSort}>Name</button>
+        </th>
         <th>Email</th>
         <th>Village</th>
       </tr>
