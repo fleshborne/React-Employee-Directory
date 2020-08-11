@@ -11,7 +11,7 @@ export default function TableHeader(props) {
         </th>
         <th>Image</th>
         <th scope='col'>
-          <button>Role</button>
+          <button onClick={() => props.sortByRole('role')}>Role</button>
         </th>
         <th scope='col'>
           <button>Name</button>

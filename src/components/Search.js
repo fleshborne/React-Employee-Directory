@@ -4,7 +4,7 @@ import React from 'react';
 export default function Search(props) {
   return (
     <form>
-      <div className='form-group align-items-center'>
+      <div className='form-group align-items-center Filter'>
         <label htmlFor='search'>Search For a Ninja</label>
         <input
           onChange={props.handleInputChange}
