@@ -7,7 +7,7 @@ import '../App.css';
 export default function Table(props) {
   return (
     <Tables striped bordered hover variant='dark' className='table-responsive'>
-      <TableHeader handleNameSort={props.handleNameSort} />
+      <TableHeader sortBy={props.sortBy} />
 
       <TableData />
     </Tables>

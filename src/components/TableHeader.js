@@ -7,14 +7,14 @@ export default function TableHeader(props) {
         <th></th>
 
         <th scope='col'>
-          <button onClick={props.handleIdSort}>Id</button>
+          <button onClick={() => props.sortBy('id')}>Id</button>
         </th>
         <th>Image</th>
         <th scope='col'>
-          <button onClick={props.handleRoleSort}>Role</button>
+          <button>Role</button>
         </th>
         <th scope='col'>
-          <button onClick={props.handleNameSort}>Name</button>
+          <button>Name</button>
         </th>
         <th>Email</th>
         <th>Village</th>

@@ -2,7 +2,7 @@ import React from 'react';
 // import TableRow from 'react-bootstrap/Row';
 import Ninjas from '../data/employeeData.json';
 
-export default function TableData() {
+export default function TableData(props) {
   return (
     <tbody className='ninjaData'>
       {Ninjas.map((ninja) => (
